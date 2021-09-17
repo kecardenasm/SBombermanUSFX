@@ -11,6 +11,7 @@ public:
 
 	int getAltoAvatar() { return altoAvatar; }
 	void setAltoAbatar(int _altoAvatar) { altoAvatar = _altoAvatar; }
-
+	void Morir();
+	void Correr();
 };
 
